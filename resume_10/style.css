@@ -1,0 +1,39 @@
+.pop{
+    text-align: center;
+    padding-top: 30px;
+}
+.pop1{
+    text-align: center;
+    color: rgb(0, 183, 255); 
+    font-weight: lighter;
+}
+.plp{
+    padding-top: 30px;
+    text-align: center;
+}
+.container{
+    background-color: aliceblue;
+}
+.fa-solid {
+padding-left: 50px;
+color: azure;
+text-align: center;
+padding-right: 20px;
+}
+.pkp{
+color: azure;
+}
+.col-4{
+    padding-left: 50px;
+}
+.progress {
+    height: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color:  rgb(255, 255, 255);
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgb(0, 183, 255);
+    box-shadow: inset 0 1px 5px rgb(0, 183, 255);
+    margin-left: 20px;
+    margin-right: 20px;
+}
