@@ -1,0 +1,75 @@
+.pop{
+    color: azure;
+    background-color: rgb(212, 178, 64);
+    text-align: center;
+    font-weight: bold;
+    transform: rotate(90deg);
+    text-align: center;
+    margin-top: 70px;
+    border-radius: 10px;
+
+}
+.col-2{
+    margin-top: 50px;
+}
+.col-7{
+    margin-top: 50px;
+}
+.plp{
+    font-weight: lighter;
+    margin-left: 25px;
+}
+.pip{
+    color:rgb(212, 178, 64); 
+    text-align: right;
+}
+.pkp{
+    text-align: initial
+}
+.pop-1{
+    color: azure;
+    background-color: rgb(212, 178, 64);
+    text-align: center;
+    transform: rotate(90deg);
+    text-align: center;
+    margin-top: 500px;
+    border-radius: 10px;
+    font-size: x-large;
+   
+}
+.pips{
+    color:rgb(212, 178, 64);  
+}
+.ert{
+    font-weight: bold;
+}
+.col-3{
+    background-color: rgb(34, 33, 33);
+
+}
+.oil{
+    color: azure;
+    text-align: center;
+    margin-top: 300px;
+}
+.oils{
+    color: azure;
+    text-align: center;
+    font-weight: lighter;
+}
+.puy{
+    color: rgb(212, 178, 64);;
+}
+.oile{
+    color: azure;
+}
+.progress {
+    height: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color:  rgb(34, 33, 33);
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgb(212, 178, 64);
+    box-shadow: inset 0 1px 5px rgb(212, 178, 64);
+  
+}
