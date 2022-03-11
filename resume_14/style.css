@@ -1,0 +1,38 @@
+.col-2{
+    height: 300px;
+    background-color: green;
+}
+.pip{
+    margin-left: 300px;
+    margin-top: 50px;
+}
+.pop{
+    margin-left: 300px;
+    color: green;
+}
+.qws{
+    color: green;
+    font-weight: bolder;
+}
+.fa-phone{
+color: green;
+margin-left:300px ;
+}
+.wer{
+    color: green;
+
+}
+.progress {
+    height: 15px;
+ 
+    overflow: hidden;
+    background-color:   rgb(235, 235, 235);
+    border-radius: 2px;
+    -webkit-box-shadow: inset 0 1px 2px green;
+    box-shadow: inset 0 1px 5px green;
+  
+}
+.pkp{
+    text-align: center;
+    color: azure;
+}
