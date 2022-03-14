@@ -1,0 +1,114 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,300&display=swap');
+
+.progress {
+    height: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    background-color: rgb(184, 155, 84);
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 2px rgb(255, 255, 255);
+    box-shadow: inset 0 1px 5px rgb(255, 255, 255);
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.text-1{
+    text-align: center;
+    color: azure;
+    font-family: poppins;
+
+}
+.text-2{
+    text-align: center;
+    color: azure;
+    font-size: large;
+    font-family:poppins;
+ 
+}
+.heading{
+    text-align: center;
+    color: black;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.text-3{
+    text-align: center;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.text-4{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+    margin-left: 30px;
+    font-weight: lighter;
+}
+.heading-1{
+    text-align: left;
+    font-family: poppins;
+    margin-left: 30px;
+    font-weight: bold;
+}
+.text-5{
+    text-align: left;
+    font-family: poppins;
+    font-size: small;
+    margin-left: 30px;
+    font-weight: lighter;
+}
+.text-6{
+    font-size: medium;
+    margin-left: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+body {
+    font-size: 100%;
+    }
+    
+.middle{
+    width:100%;
+    position:relative;
+  }
+  
+  h1 {
+  font-family: poppins;
+  white-space:normal;
+  word-break: break-all;
+  color: black;
+  text-align:center;
+  width:100%;
+  }
+  h3{
+    font-family: poppins;
+    font-size: large;
+    white-space:normal;
+    word-break: break-all;
+    color: black;
+  
+    text-align:center;
+    width:100%;
+    
+  }
+  h5{
+    font-family: poppins;
+    font-size: medium;
+    white-space:normal;
+    word-break: break-all;
+    color: black;
+  
+    text-align:center;
+    width:100%;
+    
+  }
+h4{
+    font-family: poppins;
+    font-size: small;
+    white-space:normal;
+    word-break: break-all;
+    color: black;
+  
+    text-align:left;
+    width:100%;
+}
+.header{
+    clip-path: (0% 0%,100% 0%, 100% 100%,80% 80%,0% 100% ) ;
+}
